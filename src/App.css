@@ -1,0 +1,18 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: steelblue;
+}
+.title-red {
+  color: red;
+  font-family: fantasy;
+  font-size: -webkit-xxx-large;
+}
+img {
+  /* margin: auto; */
+  margin: 25px;
+  width: 500px;
+  height: 300px;
+}
